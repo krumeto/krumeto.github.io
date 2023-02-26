@@ -1,1 +1,1 @@
-Sitemap: https://krumeto.github.io/krums_blog/sitemap.xml
+Sitemap: https://krumeto.github.io/sitemap.xml
