@@ -1,0 +1,30 @@
+---
+title: "Reading list"
+author: "Krum Arnaudov"
+date: "2023-03-05"
+categories: [readings]
+editor:
+  render-on-save: true
+---
+
+This will be an active reading list of videos, books, posts and more generally, anything that I intend to read. Some day.
+
+- [ ] The missing semester MIT - https://missing.csail.mit.edu/
+
+- [X] FASTApi live coding - https://www.youtube.com/watch?v=_BZGtifh_gw&ab_channel=DeepLearningAI
+- [X] Create your blog with Quarto - https://www.youtube.com/watch?v=xtSFXtDf4cM&ab_channel=PositPBC
+- [ ] Hamel and Radek on Quarto - https://www.youtube.com/watch?v=IqB-zVc5NgI&feature=youtu.be
+- [ ] Later in the year, either Statistical Rethinking 2023 (again), BayesRules! or Regression and other stories.
+- [ ] NLP with Transformers (in progress)
+- [ ] Pytorch learning:
+  - [ ] Patrick's Pytorch course - https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=1&ab_channel=PatrickLoeber
+  - [ ] https://www.learnpytorch.io/
+- [X] Nils Reimers: Sentence Transformers, Search, Future of NLP | Learning from Machine Learning #3 - https://www.youtube.com/watch?v=jOj4d3JNBDU&ab_channel=LearningfromMachineLearning
+  - [ ] Similar - with James Briggs - https://www.youtube.com/watch?v=Bzf1Xh3CLEM&ab_channel=Cohere with 
+- [X] On the new pandas internals - https://www.youtube.com/watch?v=jIbYomIcl34&ab_channel=PyData
+- [ ] Posts on creating a search + Q&A:
+  - [ ] Simon's post with GTR-T5-Large - https://til.simonwillison.net/python/gtr-t5-large
+  - [ ] Simon's wrapper over openAI's API - https://til.simonwillison.net/gpt3/chatgpt-api
+  - [ ] Hamel's post - https://github.com/hamelsmu/chat-langchain/
+  - [ ] OpenAI's notebook - https://github.com/openai/openai-cookbook
+  - [X] Sentence Transformers Example - https://www.sbert.net/examples/applications/semantic-search/README.html#examples

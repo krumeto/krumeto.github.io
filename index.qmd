@@ -59,13 +59,23 @@ Twitter: https://twitter.com/ArnaudovKrum
 
 **articlevectorizer** package to for creating text embeddings with a scikit-learn-style API. Basically, a worse [embetter](https://github.com/koaning/embetter)
 
+#### Recent Talks
+
+**Upcoming - Going far with open source tools in NLP** Software University (softuni.bg), April 2023
+
+**What do we know about chatGPT?** FT ML&Data Club, Feb 2023| [Slides](https://docs.google.com/presentation/d/1CTbLVi6_nOc1LZvVc8ymQ6yzS36tOCj37CXrmYNaRdo/edit?usp=sharing)
+
+**Creating and assessing media article embeddings** Sofia Data Science Society, Dec 2022| [Github Repo and Slides](https://github.com/krumeto/article-vectorisation-eda)
+
+**Creating letter embeddings** - FT ML&Data Club, Oct 2022| Inspired by Vincent Warmerdam's [video on the same topic](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=6&ab_channel=Rasa)
+
+
 #### Open Source Contributions
 
 **Minor scikit-learn fixes and docs** [here](https://github.com/scikit-learn/scikit-learn/pull/21498), [here](https://github.com/scikit-learn/scikit-learn/pull/21434) and [here](https://github.com/scikit-learn/scikit-learn/pull/17487)
 
 **Minor sktime fix** [here](https://github.com/sktime/sktime/pull/422)
 
-**Minor sktime fix** [here](https://github.com/sktime/sktime/pull/422)
 :::
 
 <link rel="me" href="https://www.linkedin.com/in/krum-arnaudov-ba8b7217/">

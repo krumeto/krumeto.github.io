@@ -1,12 +1,17 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-02-21"
-categories: [news]
+author: "Krum Arnaudov"
+date: "2023-03-05"
+categories: [misc]
+editor:
+  render-on-save: true
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Well, I will try blogging. I should have done this years ago, as with many other things, but better late than never.
 
-![](thumbnail.jpg)
+I am trying to learn more 'software-y' aspects of the ML/DS world. This will help. This blog is built with [quarto](https://quarto.org/). Clever people like [Hamel](https://hamel.dev/) have built theirs using it. I am giving it a try as well. It worked (relatively) easily. I know enough markdown for this to be an easy starting path. The best lesson learnt so far - creating a website involves as much copying other great examples, as any other software activity. Need to learn more of the `.css`/`.nojekyll` elements. I will - in time. For now, this is good enough.
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+I intend to write mostly short "today I learned" or (TIL) posts. I learned about TILs from Vincent Warmerdam, who in turn has mentioned hearing about the idea from Simon Willison. I find it quite convenient. It gets you in the habit of writing down your thoughts, but in smaller bits. Trains you for long form posts. Helps with building a library of ideas/learnings. 
+
+I will also maintain an active Reading List. I currently have a repo on the topic, but an editable blog post seems more elegant. 
+

@@ -137,3 +137,4 @@ notes/serving/tfserving/model/
 notes/serving/torchserve/config/
 notes/serving/torchserve/*.mar
 notes/serving/torchserve/logs
+.vscode/settings.json

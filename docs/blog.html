@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -112,9 +112,8 @@ cookieconsent.run({
 
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="Krum Arnaudov -">
-<meta name="twitter:image" content="./posts/welcome/thumbnail.jpg">
 <meta name="twitter:creator" content="@ArnaudovKrum">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -162,7 +161,7 @@ cookieconsent.run({
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="misc">misc <span class="quarto-category-count">(1)</span></div><div class="category" data-category="readings">readings <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block page-columns page-full column-body" id="quarto-document-content">
 
@@ -177,51 +176,39 @@ cookieconsent.run({
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news,code,analysis" data-listing-date-sort="1677189600000" data-listing-file-modified-sort="1677254962558" data-listing-reading-time-sort="0.035">
-<div class="thumbnail">
-<p><a href="./posts/post-with-code/index.html"> <img src="./posts/post-with-code/image.jpg" class="thumnail-image"> </a></p>
-</div>
+<div class="quarto-post image-right" data-index="0" data-categories="readings" data-listing-date-sort="1677967200000" data-listing-file-modified-sort="1678045510443" data-listing-reading-time-sort="0.935">
 <div class="body">
-<a href="./posts/post-with-code/index.html">
+<a href="./posts/reading_list/index.html">
 <h3 class="no-anchor listing-title">
-Post With Code
+Reading list
 </h3>
 <div class="listing-subtitle">
 
 </div>
 </a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
+<div class="listing-category" onclick="window.quartoListingCategory('readings'); return false;">
+readings
 </div>
 </div>
-<a href="./posts/post-with-code/index.html">
+<a href="./posts/reading_list/index.html">
 <div class="listing-description">
-This is a post with executable code.
+This will be an active reading list of videos, books, posts and more generally, anything that I intend to read. Some day.
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./posts/post-with-code/index.html">
+<a href="./posts/reading_list/index.html">
 <div class="listing-date">
-Feb 24, 2023
+Mar 5, 2023
 </div>
 <div class="listing-author">
-Harlow Malloc
+Krum Arnaudov
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1676930400000" data-listing-file-modified-sort="1677254962548" data-listing-reading-time-sort="0.16">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html"> <img src="./posts/welcome/thumbnail.jpg" class="thumnail-image"> </a></p>
-</div>
+<div class="quarto-post image-right" data-index="1" data-categories="misc" data-listing-date-sort="1677967200000" data-listing-file-modified-sort="1678044166965" data-listing-reading-time-sort="1.02">
 <div class="body">
 <a href="./posts/welcome/index.html">
 <h3 class="no-anchor listing-title">
@@ -232,23 +219,23 @@ Welcome To My Blog
 </div>
 </a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
+<div class="listing-category" onclick="window.quartoListingCategory('misc'); return false;">
+misc
 </div>
 </div>
 <a href="./posts/welcome/index.html">
 <div class="listing-description">
-This is the first post in a Quarto blog. Welcome!
+Well, I will try blogging. I should have done this years ago, as with many other things, but better late than never.
 </div>
 </a>
 </div>
 <div class="metadata">
 <a href="./posts/welcome/index.html">
 <div class="listing-date">
-Feb 21, 2023
+Mar 5, 2023
 </div>
 <div class="listing-author">
-Tristan O’Malley
+Krum Arnaudov
 </div>
 </a>
 </div>
