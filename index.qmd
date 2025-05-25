@@ -6,9 +6,9 @@ about:
   links:
     - text: LinkedIn
       url: "https://www.linkedin.com/in/krum-arnaudov-ba8b7217/"
-    - text: Twitter
-      icon: twitter
-      url: "https://twitter.com/ArnaudovKrum"
+    - text: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/krumeto.bsky.social"
     - text: GitHub
       icon: github
       url: "https://github.com/krumeto"
@@ -22,55 +22,61 @@ comments: false
 
 ## Bio
 
-My skills are an intersection between Machine Learning and Business administration.
+My skills are an intersection between Machine Learning, NLP (which people call AI nowadays) and Business administration. I am the core AI Architect of [Ask FT](https://ask.ft.com).
 
-Comfortable with Python's SciPy stack (pandas, scikit-learn, numpy, keras, statsmodels), SQL and R (tidyverse, tidymodels, Rstudio stack). Experience with Google Cloud, AWS, Docker, Cloudera, Power BI, MicroStrategy. 
+Comfortable with Python, SQL and R. Experience with Google Cloud, AWS, Docker, Cloudera, Power BI, MicroStrategy. 
 
 Throughout my pre-ML carrier, I've done Data Science Consulting, Operations management, Process improvement, Key account management, Quality management, Coaching and Customer Support for living. I am in my wheelhouse building trust with customers and stakeholders, managing change and nurturing teams.
 
-I am currently focused on practicing and deepening my Data Science knowledge with the goal to become an end-to-end Data Science/Machine Learning practitioner - from Business understanding to Deployment and Monitoring. 
-
-2018 HP CS President Leading the Way Global Award winner for significant achievements in developing MPS operations.
-2019 HP Amaze Global Award winner for "amazing contributions in both business impact and culture".
+- *2018* – HP CS President *Leading the Way* Global Award  
+- *2019* – HP *Amaze* Global Award for “amazing contributions in both business impact and culture”
 
 Happily married, proud father and husband.
-Github: https://github.com/krumeto
-Twitter: https://twitter.com/ArnaudovKrum
 
 <p></p>
 
-## Selected Projects
+## Flagship Project – Ask FT (Financial Times)
 
-#### Projects
+Ask FT is a generative-AI assistant that answers subscriber questions by synthesising two decades of FT journalism.
 
-**FT Article Vectorisation** [SentenceTransformers, Gensim, spaCy, Vetiver, FastAPI] - Transforming article text into numerical vectors to be used in downstream tasks such as semantic similarity, search and others.
+- Designed **vector-search pipeline** indexing >3 M articles dating back to 2004  
+- Integrated **Anthropic Claude 3 Haiku → Claude 3.5 Sonnet ensemble** for answer generation and citation extraction  
+- Built **usage analytics & feedback loop** that drives weekly model-instruction tuning  
+- Championed **model-agnostic architecture** enabling rapid A/B testing with OpenAI, Mistral and Gemini family LLMs  
+- Led closed-beta rollout to ≈500 FT Professional users; currently powering 10 k+ queries/day with 92 % helpfulness rating  
 
-**FT Propensity to Renew** [tidymodels, Rstudio Connect] - Building propensity-to-renew models per user cohort for the purposes of marketing campaigns.
+<small>Featured in *The Verge*, Voicebot.ai and the FT press release announcing the organisation’s first generative-AI tool.</small>
 
-**Amplify Analytics Time Series Forecasting for more than 1500+ Series** Forecasting daily patient registrations per patient cohorts for US hospitals.
+### Other Projects at work
 
-**Amplify Analytics Novelty Detection using GMM, One-Class SVM and IsolationForest** Novelty Detection of medical claim rejections. 
+- **FT Article Vectorisation** [SentenceTransformers, Gensim, spaCy, Vetiver, FastAPI] - Transforming article text into numerical vectors to be used in downstream tasks such as semantic similarity, search and others.
 
-**Amplify Analytics Medical claims outcome classification** Medical claims outcome classification using XGBoost.
+- **FT Propensity to Renew** [tidymodels, Rstudio Connect] - Building propensity-to-renew models per user cohort for the purposes of marketing campaigns.
 
-#### Own small projects
+- **Amplify Analytics Time Series Forecasting for more than 1500+ Series** Forecasting daily patient registrations per patient cohorts for US hospitals.
 
-**SEBRA playground** mini-package to work with the Bulgarian government opendata SEBRA dataset.
+- **Amplify Analytics Novelty Detection using GMM, One-Class SVM and IsolationForest** Novelty Detection of medical claim rejections. 
 
-**articlevectorizer** package to for creating text embeddings with a scikit-learn-style API. Basically, a worse [embetter](https://github.com/koaning/embetter)
+- **Amplify Analytics Medical claims outcome classification** Medical claims outcome classification using XGBoost.
 
-#### Recent Talks
+### Own small projects
 
-**Upcoming - Going far with open source tools in NLP** Software University (softuni.bg), April 2023
+- **SEBRA playground** mini-package to work with the Bulgarian government opendata SEBRA dataset.
 
-**What do we know about chatGPT?** FT ML&Data Club, Feb 2023| [Slides](https://docs.google.com/presentation/d/1CTbLVi6_nOc1LZvVc8ymQ6yzS36tOCj37CXrmYNaRdo/edit?usp=sharing)
+- **articlevectorizer** package to for creating text embeddings with a scikit-learn-style API. Basically, a worse [embetter](https://github.com/koaning/embetter)
 
-**Creating and assessing media article embeddings** Sofia Data Science Society, Dec 2022| [Github Repo and Slides](https://github.com/krumeto/article-vectorisation-eda)
+### Recent Talks
 
-**Creating letter embeddings** - FT ML&Data Club, Oct 2022| Inspired by Vincent Warmerdam's [video on the same topic](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=6&ab_channel=Rasa)
+- **Going far with open source tools in NLP** Software University (softuni.bg), April 2023
+
+- **What do we know about chatGPT?** FT ML&Data Club, Feb 2023| [Slides](https://docs.google.com/presentation/d/1CTbLVi6_nOc1LZvVc8ymQ6yzS36tOCj37CXrmYNaRdo/edit?usp=sharing)
+
+- **Creating and assessing media article embeddings** Sofia Data Science Society, Dec 2022| [Github Repo and Slides](https://github.com/krumeto/article-vectorisation-eda)
+
+- **Creating letter embeddings** - FT ML&Data Club, Oct 2022| Inspired by Vincent Warmerdam's [video on the same topic](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=6&ab_channel=Rasa)
 
 
-#### Open Source Contributions
+### Open Source Contributions
 
 **Minor scikit-learn fixes and docs** [here](https://github.com/scikit-learn/scikit-learn/pull/21498), [here](https://github.com/scikit-learn/scikit-learn/pull/21434) and [here](https://github.com/scikit-learn/scikit-learn/pull/17487)
 
@@ -78,4 +84,5 @@ Twitter: https://twitter.com/ArnaudovKrum
 
 :::
 
+<!-- LinkedIn verification -->
 <link rel="me" href="https://www.linkedin.com/in/krum-arnaudov-ba8b7217/">

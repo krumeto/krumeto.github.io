@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://krumeto.github.io/about.html</loc>
-    <lastmod>2023-03-05T20:03:33.875Z</lastmod>
-  </url>
-  <url>
     <loc>https://krumeto.github.io/blog.html</loc>
-    <lastmod>2023-03-05T20:03:35.878Z</lastmod>
+    <lastmod>2025-05-25T18:39:57.143Z</lastmod>
   </url>
   <url>
     <loc>https://krumeto.github.io/index.html</loc>
-    <lastmod>2023-03-05T20:03:37.281Z</lastmod>
+    <lastmod>2025-05-25T19:16:54.210Z</lastmod>
   </url>
   <url>
     <loc>https://krumeto.github.io/posts/reading_list/index.html</loc>
-    <lastmod>2023-03-05T20:03:38.415Z</lastmod>
+    <lastmod>2025-05-25T18:39:57.169Z</lastmod>
   </url>
   <url>
     <loc>https://krumeto.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-03-05T20:03:39.457Z</lastmod>
+    <lastmod>2025-05-25T18:39:57.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://krumeto.github.io/about.html</loc>
+    <lastmod>2025-05-25T18:50:58.076Z</lastmod>
   </url>
 </urlset>
