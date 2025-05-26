@@ -1,0 +1,10 @@
+---
+title: "Data Science in Media - Creating and assessing media article embeddings"
+author: "Krum Arnaudov"
+date: "2022-12-09"
+categories: [embeddings]
+editor:
+  render-on-save: true
+---
+
+## [Slides](https://docs.google.com/presentation/d/1LRZM6o_2BKcqBc-pVpNhlzEQyQPh5U9wfQXsgX4kdbY/edit?usp=sharing)

@@ -16,7 +16,7 @@ website:
       - text: "Home"
         href: index.html
       - text: "Presentations"
-        href: presentations
+        href: presentations.html
       - text: "Blog"
         href: blog.html
       - icon: rss

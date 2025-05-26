@@ -1,0 +1,10 @@
+---
+title: "Language Models for Real-World Applications - Lessons Learned"
+author: "Krum Arnaudov"
+date: "2023-10-09"
+categories: [llm]
+editor:
+  render-on-save: true
+---
+
+## [Slides](https://docs.google.com/presentation/d/1te05DVfniM3IfDBG1epJIBgeO4kwcwYXH2cmvA2Andk/edit?slide=id.p1#slide=id.p1)
