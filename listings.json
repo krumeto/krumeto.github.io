@@ -5,5 +5,12 @@
       "/posts/reading_list/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/presentations.html",
+    "items": [
+      "/presentations/language_models_real_world/index.html",
+      "/presentations/data_science_in_media/index.html"
+    ]
   }
 ]
