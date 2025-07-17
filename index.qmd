@@ -28,7 +28,7 @@ My skills are an intersection between Machine Learning, NLP (which people call A
 
 Comfortable with Python, SQL and R. Experience with Google Cloud, AWS, Docker, Cloudera, Power BI, MicroStrategy. 
 
-Throughout my pre-ML carrier, I've done Data Science Consulting, Operations management, Process improvement, Key account management, Quality management, Coaching and Customer Support for living. I am in my wheelhouse building trust with customers and stakeholders, managing change and nurturing teams.
+Throughout my pre-ML career, I've done Data Science Consulting, Operations management, Process improvement, Key account management, Quality management, Coaching and Customer Support for living. I am in my wheelhouse building trust with customers and stakeholders, managing change and nurturing teams.
 
 - *2018* – HP CS President *Leading the Way* Global Award  
 - *2019* – HP *Amaze* Global Award for “amazing contributions in both business impact and culture”
@@ -39,24 +39,24 @@ Happily married, proud father and husband.
 
 ## Flagship Project – Ask FT (Financial Times) (2023 - )
 
-[Ask FT](https://professional.ft.com/ask-ft) is a generative-AI assistant that answers subscriber questions by synthesising two decades of FT journalism. It started as a simple demo (using semantis search and Falcon 7B), and reached millions of FT's Professional subscribers.
+[Ask FT](https://professional.ft.com/ask-ft) is a generative-AI assistant that answers subscriber questions by synthesising two decades of FT journalism. It started as a simple demo (using semantic search and Falcon 7B), and reached millions of FT's Professional subscribers.
 
 - Designed a **query decomposition and rephrasing pipeline** that balances speed with retrieval accuracy, running parallel searches when needed, while infusing knowledge of recent events prior to the search
 - Through extensive **prompt engineering**, aligned answers to FT's strict requirements, balancing safety with answer helpfulness
 - Designed a **custom moderation layer** to fit the FT's requirements, balancing blocking rate with false positives rate
-- Continously monitored **system quality and user feedback**, planned future features and inniated incremental improvements 
+- Continuously monitored **system quality and user feedback**, planned future features and initiated incremental improvements 
 
 <small>In addition to FT's coverage, featured in [The Verge](https://www.theverge.com/2024/3/23/24106296/ask-ft-generative-ai-chatbot-answers-tool), [Voicebot.ai](https://voicebot.ai/2024/03/25/financial-times-launches-generative-ai-chatbot-for-subscribers-powered-by-anthropics-claude-3-llm/), [banker.bg](https://banker.bg/2024/03/24/the-financial-times-%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D1%87%D0%B0%D1%82%D0%B1%D0%BE%D1%82%D0%B0-ask-ft/) and others.</small>
 
 ### Other Projects at work
 
-- **FT Geopolitical risk level classifier (2025)** [setfit, custom annotation] - Finetuned a customer language model for geopolitical risk classification on FT articles, aligning with FT content definitions.
+- **FT Geopolitical risk level classifier (2025)** [setfit, custom annotation] - Finetuned a custom language model for geopolitical risk classification on FT articles, aligning with FT content definitions.
 
-- **FT's embeddings model quality assessment benchmark (2024)** [SentenceTransformers, custom dataset creation] - Lead an effort to benchmark and assess various text embedding models on FT data.
+- **FT's embeddings model quality assessment benchmark (2024)** [SentenceTransformers, custom dataset creation] - Led an effort to benchmark and assess various text embedding models on FT data.
 
-- **FT Macro Themes classification (2024)** [setfit, custom annotation] - Finetuned a customer language model for classification of topics of high interest to macro investors.
+- **FT Macro Themes classification (2024)** [setfit, custom annotation] - Finetuned a custom language model for classification of topics of high interest to macro investors.
 
-- **FT Sentiment classification model (2024)** [setfit, custom annotation] - Finetuned a customer language model for sentiment classification on FT articles, aligning with FT content definitions.
+- **FT Sentiment classification model (2024)** [setfit, custom annotation] - Finetuned a custom language model for sentiment classification on FT articles, aligning with FT content definitions.
 
 - **FT Article Vectorisation (2023)** [SentenceTransformers, spaCy, Vetiver, FastAPI] - Transforming article text into numerical vectors to be used in downstream tasks such as semantic similarity, search and others.
 
@@ -72,11 +72,11 @@ Happily married, proud father and husband.
 
 - **SEBRA playground** mini-package to work with the Bulgarian government opendata SEBRA dataset.
 
-- **articlevectorizer** package to for creating text embeddings with a scikit-learn-style API. Basically, a worse [embetter](https://github.com/koaning/embetter)
+- **articlevectorizer** package for creating text embeddings with a scikit-learn-style API. Basically, a worse [embetter](https://github.com/koaning/embetter)
 
 ### Recent Talks
 
-- **Language Models for Real-World Applications - Lessons Learned** [Link](https://dev.bg/event/language-models-for-real-world-applications-lessons-learned/)Dev.bg (dev.bg), October 2024
+- **Language Models for Real-World Applications - Lessons Learned** [Link](https://dev.bg/event/language-models-for-real-world-applications-lessons-learned/) Dev.bg (dev.bg), October 2024
 
 - **Going far with open source tools in NLP** Software University (softuni.bg), April 2023
 
